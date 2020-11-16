@@ -1,5 +1,6 @@
-|![](/pic/ivs.png)|
-|*SC-BNN fitted (20%,80%) quantiles by on SPX500 2006/01/18*|
+![](/pic/ivs.png)
+:--:
+*SC-BNN fitted (20%,80%) quantiles by on SPX500 2006/01/18*
 
 # Implied Volatility Surface with SC-BNN
 
