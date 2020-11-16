@@ -1,4 +1,4 @@
-![alt text](https://github.com/TYtianyang/IVS/tree/main/pic/ivs.png)
+![](/pic/ivs.png)
 
 # Implied Volatility Surface with SC-BNN
 
