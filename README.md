@@ -1,6 +1,6 @@
 ![](/pic/ivs.png)
 :--:
-*SC-BNN fitted (20%,80%) quantiles by on SPX500 2006/01/18*
+*SC-BNN predicts (20%,80%) quantiles on SPX500 options 2006/01/18*
 
 # Implied Volatility Surface with SC-BNN
 
