@@ -1,3 +1,5 @@
+![alt text](https://github.com/TYtianyang/IVS/tree/main/pic/ivs.png)
+
 # Implied Volatility Surface with SC-BNN
 
 The Python code for implied volatility surface project; Source of shape-constrained bayesian neural network.
