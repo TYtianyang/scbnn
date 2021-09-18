@@ -16,6 +16,4 @@ The method considers the constrains by modifying the original prior distribution
 1) The work introduced a pioneer yet valid solution to the bayesian inference problem on the implied volatility surface.
 2) The work brought up a method that can be utilized in general machine learning topics whenever bayesian inference with shape constrains is called.
 
-## Paper
-The work is under preparation to be submitted to IJCNN 2021.
 
